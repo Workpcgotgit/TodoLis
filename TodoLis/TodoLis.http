@@ -1,0 +1,6 @@
+@TodoLis_HostAddress = http://localhost:5153
+
+GET {{TodoLis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
